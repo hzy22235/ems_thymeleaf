@@ -1,3 +1,0 @@
-# ems_thymeleaf
-基于Springboot、thymeleaf增删改查练手小项目
-很适合项目小白来试试
